@@ -1,0 +1,53 @@
+E:\База данных С ку эль\Новая папка\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+E:\База данных С ку эль\Новая папка\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\Database1.mdf
+E:\База данных С ку эль\Новая папка\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\Database1_log.ldf
+E:\База данных С ку эль\Новая папка\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+E:\База данных С ку эль\Новая папка\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+E:\База данных С ку эль\Новая папка\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+E:\База данных С ку эль\Новая папка\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+E:\База данных С ку эль\Новая папка\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+E:\База данных С ку эль\Новая папка\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+E:\База данных С ку эль\Новая папка\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Start.resources
+E:\База данных С ку эль\Новая папка\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Tabls.resources
+E:\База данных С ку эль\Новая папка\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.AddData.resources
+E:\База данных С ку эль\Новая папка\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.AddFilms.resources
+E:\База данных С ку эль\Новая папка\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.AddSession.resources
+E:\База данных С ку эль\Новая папка\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojAssemblyReference.cache
+E:\База данных С ку эль\Новая папка\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+E:\База данных С ку эль\Новая папка\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.querys.resources
+D:\Инст\БД\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\Database1.mdf
+D:\Инст\БД\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\Database1_log.ldf
+D:\Инст\БД\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+D:\Инст\БД\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+D:\Инст\БД\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+D:\Инст\БД\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojAssemblyReference.cache
+D:\Инст\БД\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.AddData.resources
+D:\Инст\БД\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.AddFilms.resources
+D:\Инст\БД\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.AddSession.resources
+D:\Инст\БД\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+D:\Инст\БД\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+D:\Инст\БД\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.querys.resources
+D:\Инст\БД\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Start.resources
+D:\Инст\БД\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Tabls.resources
+D:\Инст\БД\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.cache
+D:\Инст\БД\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.CoreCompileInputs.cache
+D:\Инст\БД\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+D:\Инст\БД\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+D:\Инст\3 курс\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\Database1.mdf
+D:\Инст\3 курс\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\Database1_log.ldf
+D:\Инст\3 курс\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+D:\Инст\3 курс\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+D:\Инст\3 курс\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+D:\Инст\3 курс\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojAssemblyReference.cache
+D:\Инст\3 курс\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.AddData.resources
+D:\Инст\3 курс\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.AddFilms.resources
+D:\Инст\3 курс\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.AddSession.resources
+D:\Инст\3 курс\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+D:\Инст\3 курс\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+D:\Инст\3 курс\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.querys.resources
+D:\Инст\3 курс\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Start.resources
+D:\Инст\3 курс\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Tabls.resources
+D:\Инст\3 курс\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.cache
+D:\Инст\3 курс\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.CoreCompileInputs.cache
+D:\Инст\3 курс\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+D:\Инст\3 курс\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
